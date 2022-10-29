@@ -43,3 +43,8 @@ py exifnew.py</pre>
 # Demo
 
 ![Image1](/Demo/Demo1.jpg "Demo1")
+![Image2](/Demo/Demo2.jpg "Demo2")
+![Image3](/Demo/Demo3.jpg "Demo3")
+![Image4](/Demo/Demo4.jpg "Demo4")
+![Image5](/Demo/Demo5.jpg "Demo5")
+
