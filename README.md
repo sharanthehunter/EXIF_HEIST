@@ -1,5 +1,5 @@
 # EXIF_HEIST
 EXIF_HEIST runs exiftool to extract all metadata about an uploaded or internet-located object.
 
-#Requirements
+# Requirements
 pip install pillow
