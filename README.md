@@ -3,7 +3,7 @@ EXIF_HEIST runs exiftool to extract all metadata about an uploaded or internet-l
 
 # Compatibility
 Check your Python version by typing in
-$ python
+#python
 # Requirements
 # Pillow package
 pip install pillow
