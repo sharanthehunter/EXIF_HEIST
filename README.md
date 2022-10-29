@@ -55,7 +55,7 @@ py exifnew.py</pre>
 
 ## Authors
 
-  1. SHARAN.K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/)\
+  1. SHARAN.K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/)
   2. RAAGUL VIGNESH [Linkedin](https://www.linkedin.com/in/raagul-vignesh-10842a228/)  
 
 
