@@ -6,4 +6,4 @@ Check your Python version by typing in
 #python
 # Requirements
 # Pillow package
-pip install pillow
+<pre>pip install pillow</pre>
