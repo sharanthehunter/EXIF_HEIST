@@ -1,4 +1,4 @@
-@Sharan @Raagul
+## @Sharan @Raagul
 import os
 from PIL import Image
 from PIL.ExifTags import (
