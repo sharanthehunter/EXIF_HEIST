@@ -53,3 +53,13 @@ py exifnew.py</pre>
 ### Exited
 ![Image5](/Demo/Demo5.jpg "Demo5")
 
+## Authors
+
+  1. SHARAN.K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/) \
+  2. RAAGUL VIGNESH [Linkedin](https://www.linkedin.com/in/raagul-vignesh-10842a228/)  
+
+
+## Support
+
+Contributions, issues, and feature requests are welcome!\
+Give a ★ if you like this project!
