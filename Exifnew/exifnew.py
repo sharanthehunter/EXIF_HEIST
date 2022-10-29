@@ -1,3 +1,4 @@
+@Sharan @Raagul
 from tkinter import *
 from tkinter import filedialog
 
@@ -28,7 +29,7 @@ if option in ["1", "01"]:
      exit()
 _csv_file = "exif_data.csv"
 if option in ["2", "02"]:
-     print(f"Exiting")
+     print(f"Operation Aborted")
      exit()
 #Deleting old data if already found
 if os.path.exists(_csv_file):
