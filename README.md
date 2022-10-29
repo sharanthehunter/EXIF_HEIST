@@ -39,3 +39,7 @@ python3 exifnew.py</pre>
 
 <pre>cd Exifnew
 py exifnew.py</pre>
+
+# Demo
+
+![](/Demo/demo1.jpg "Demo1")
