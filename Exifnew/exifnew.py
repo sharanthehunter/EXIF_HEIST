@@ -1,4 +1,3 @@
-## @Sharan @Raagul
 from tkinter import *
 from tkinter import filedialog
 
@@ -28,6 +27,9 @@ if option in ["1", "01"]:
      print(f"No Exif data found in '{image_path}'")
      exit()
 _csv_file = "exif_data.csv"
+if option in ["2", "02"]:
+     print(f"Exiting")
+     exit()
 #Deleting old data if already found
 if os.path.exists(_csv_file):
         print(f"Deleting old '{_csv_file}' ...")
@@ -40,3 +42,4 @@ with open(_csv_file, "a", newline="") as f:
             
 exit(5)
 window.mainloop()
+
