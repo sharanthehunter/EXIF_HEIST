@@ -42,4 +42,4 @@ py exifnew.py</pre>
 
 # Demo
 
-![](/Demo/demo1.jpg "Demo1")
+![Image1](EXIF_HEIST/Demo/demo1.jpg "Demo1")
