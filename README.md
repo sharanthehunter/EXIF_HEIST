@@ -12,6 +12,7 @@ or higher then you are ready to go....
 <pre>pip install pillow</pre>
 
 ## Usage:
+- Install all the dependendies 
 
 Before continuing make sure following requirements are satisfied:
 
