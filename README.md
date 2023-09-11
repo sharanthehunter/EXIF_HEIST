@@ -58,7 +58,7 @@ py exifnew.py</pre>
 
   1. SHARAN.K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/)
   2. RAAGUL VIGNESH [Linkedin](https://www.linkedin.com/in/raagul-vignesh-10842a228/)
-  3. SELVAKUMAR ANAND [Linkedin](https://www.linkedin.com/in/selvakumar-anand-551821220/)
+  3. SELVAKUMAR ANAND [Linkedin](https://www.linkedin.com/in/selvakumar-anand-551821220/).
 
 
 ## Support
